@@ -1,4 +1,4 @@
-var name="I am Nawsish Ahmed <br/>";
+        var name="I am Nawsish Ahmed <br/>";
         var age=31;
         document.write(name);
         
